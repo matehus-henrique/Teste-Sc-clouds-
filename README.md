@@ -13,3 +13,8 @@ A escolha entre Windows e Ubuntu depende de fatores como custo, suporte técnico
 ## Projetos Open Source
 
 Um projeto **Open Source** é um software cujo código-fonte é aberto para qualquer pessoa acessar, modificar e distribuir, promovendo uma colaboração global. Empresas podem usar e contribuir para esses projetos, adaptando-os às suas necessidades e economizando custos com licenças. No entanto, a falta de suporte oficial e a necessidade de expertise interna podem ser desafiadoras. Exemplos incluem **Linux**, **Vim** e **Nginx**. Apesar dos desafios, os benefícios como flexibilidade e inovação são significativos.
+
+
+## Agradecimento
+
+Eu fiz o teste na linguagem **Java**, pois é uma linguagem que estou estudando e estou fazendo uma transição. Agradeço pela oportunidade de realizar o teste nesta linguagem.
